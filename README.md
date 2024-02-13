@@ -1,3 +1,3 @@
 # aishteck-demo
-This is my First Git Reposetory.
+This is my first Git Reposetory.
 Authur - Aisha Bibi
