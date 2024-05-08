@@ -1,4 +1,2 @@
 # aishteck-demo
-This is my first Git Reposetory.
-<br>
-Authur - Aisha Bibi (aishteck)
+## Welcome to my Github Profile.
